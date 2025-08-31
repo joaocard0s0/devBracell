@@ -135,8 +135,3 @@ Links de exemplo já estão mapeados no código:
 * [Rasterio Documentation](https://rasterio.readthedocs.io/)
 * [GeoPandas Documentation](https://geopandas.org/)
 
----
-
-✍️ Desenvolvido para estudos de **sensoriamento remoto**, **NDVI** e **análise espacial com Python**.
-
-```
